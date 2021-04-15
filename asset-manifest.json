@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/novela-g/static/css/main.e8965685.chunk.css",
+    "main.js": "/novela-g/static/js/main.ac1ce188.chunk.js",
+    "main.js.map": "/novela-g/static/js/main.ac1ce188.chunk.js.map",
+    "runtime-main.js": "/novela-g/static/js/runtime-main.69198241.js",
+    "runtime-main.js.map": "/novela-g/static/js/runtime-main.69198241.js.map",
+    "static/js/2.99681d7e.chunk.js": "/novela-g/static/js/2.99681d7e.chunk.js",
+    "static/js/2.99681d7e.chunk.js.map": "/novela-g/static/js/2.99681d7e.chunk.js.map",
+    "static/js/3.99d7c84c.chunk.js": "/novela-g/static/js/3.99d7c84c.chunk.js",
+    "static/js/3.99d7c84c.chunk.js.map": "/novela-g/static/js/3.99d7c84c.chunk.js.map",
+    "index.html": "/novela-g/index.html",
+    "static/css/main.e8965685.chunk.css.map": "/novela-g/static/css/main.e8965685.chunk.css.map",
+    "static/js/2.99681d7e.chunk.js.LICENSE.txt": "/novela-g/static/js/2.99681d7e.chunk.js.LICENSE.txt",
+    "static/media/article_page.scss": "/novela-g/static/media/FontsFree-Net-SFProDisplay-Regular.1e1c0e29.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69198241.js",
+    "static/js/2.99681d7e.chunk.js",
+    "static/css/main.e8965685.chunk.css",
+    "static/js/main.ac1ce188.chunk.js"
+  ]
+}
